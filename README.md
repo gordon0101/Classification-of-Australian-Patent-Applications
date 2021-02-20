@@ -3,7 +3,7 @@
 Data exploration using Python and attempted to find which model has the best accuracy in predicting this dataset.
 
 
-##Technologies used
+## Technologies used
 Python
 Jupyter Notebook
 Data visualisation with Pandas
