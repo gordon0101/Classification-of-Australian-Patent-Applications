@@ -8,12 +8,16 @@ Used various methods such as pre-trained word embeddings and tuning the model us
 
 ## Technologies used
 Python
+
 Jupyter Notebook
+
 Data visualisation with Pandas
 
 Models:
 Simple Neural Net(SNN)
+
 Recurrent Neural Net(RNN)
+
 Naive Bayes
 
 Project Status - Completed
