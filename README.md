@@ -2,6 +2,9 @@
 
 Data exploration using Python and attempted to find which model has the best accuracy in predicting this dataset.
 
+Used various methods such as pre-trained word embeddings and tuning the model using trail & error to find the best model that has the best accuracy for predicting australian patent applications.
+
+
 
 ## Technologies used
 Python
@@ -14,3 +17,5 @@ Recurrent Neural Net(RNN)
 Naive Bayes
 
 Project Status - Completed
+
+This is a Macquarie University Unit project - COMP3210
