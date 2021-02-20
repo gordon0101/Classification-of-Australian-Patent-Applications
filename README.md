@@ -4,7 +4,7 @@ Data exploration using Python and attempted to find the best model in predicting
 
 Used various methods such as pre-trained word embeddings and tuning the model using trail & error to find the best model that has the best accuracy for predicting australian patent applications.
 
-
+## a2.ipynb- Data exploration and models
 
 ## Technologies used
 Python
