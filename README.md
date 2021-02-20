@@ -21,5 +21,4 @@ Recurrent Neural Net(RNN)
 Naive Bayes
 
 ### Project Status - Completed
-
-This is a Macquarie University Unit project - COMP3210
+### This is a Macquarie University Unit Project - COMP3220
