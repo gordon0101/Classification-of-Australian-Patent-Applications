@@ -13,7 +13,7 @@ Jupyter Notebook
 
 Data visualisation with Pandas
 
-Models:
+### Models:
 Simple Neural Net(SNN)
 
 Recurrent Neural Net(RNN)
